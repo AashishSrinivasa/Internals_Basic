@@ -1,0 +1,23 @@
+artifact_path: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/models/m-7f7e2501fd2b4fb49e113061de9aa573/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-7f7e2501fd2b4fb49e113061de9aa573
+model_size_bytes: 202334
+model_uuid: m-7f7e2501fd2b4fb49e113061de9aa573
+prompts: null
+run_id: c098403b3cfd417985373ee914bd9387
+utc_time_created: '2026-05-04 03:28:07.319823'

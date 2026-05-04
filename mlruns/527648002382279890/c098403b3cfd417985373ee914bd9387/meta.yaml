@@ -1,0 +1,14 @@
+artifact_uri: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/c098403b3cfd417985373ee914bd9387/artifacts
+end_time: 1777865288768
+entry_point_name: ''
+experiment_id: '527648002382279890'
+lifecycle_stage: active
+run_id: c098403b3cfd417985373ee914bd9387
+run_name: RandomForest_challenger_rs99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777865287206
+status: 3
+tags: []
+user_id: sleepy-compassionate-ptolemy

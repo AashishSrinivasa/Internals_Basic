@@ -1,0 +1,13 @@
+{
+  "best_model": "RandomForest",
+  "best_run_id": "3c5c9cb9e985463fa6d7d0e0d93aebf6",
+  "run_ids": {
+    "LinearRegression": "6f641b05f75440459bc78f6228a85c9d",
+    "RandomForest": "3c5c9cb9e985463fa6d7d0e0d93aebf6"
+  },
+  "tracking_uri": "file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns",
+  "v1_version": 1,
+  "v1_mae": 1.1066199999999975,
+  "champion_version": 1,
+  "champion_mae": 1.1066199999999975
+}

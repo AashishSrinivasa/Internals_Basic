@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "cropsense-irrigation-hours-predictor",
+  "version": 1,
+  "run_id": "3c5c9cb9e985463fa6d7d0e0d93aebf6",
+  "source_metric": "mae",
+  "source_metric_value": 1.1066
+}

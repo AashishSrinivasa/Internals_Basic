@@ -1,0 +1,20 @@
+{
+  "experiment_name": "cropsense-irrigation-hours",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "mae": 1.215,
+      "rmse": 1.3421,
+      "r2": 0.4312
+    },
+    {
+      "name": "RandomForest",
+      "mae": 1.1066,
+      "rmse": 1.2696,
+      "r2": 0.491
+    }
+  ],
+  "best_model": "RandomForest",
+  "best_metric_name": "mae",
+  "best_metric_value": 1.1066
+}

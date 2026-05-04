@@ -1,0 +1,14 @@
+artifact_uri: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/6f641b05f75440459bc78f6228a85c9d/artifacts
+end_time: 1777865271964
+entry_point_name: ''
+experiment_id: '527648002382279890'
+lifecycle_stage: active
+run_id: 6f641b05f75440459bc78f6228a85c9d
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777865270405
+status: 3
+tags: []
+user_id: sleepy-compassionate-ptolemy
