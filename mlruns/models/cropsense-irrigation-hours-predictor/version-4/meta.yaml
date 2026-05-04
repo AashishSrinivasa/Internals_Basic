@@ -1,0 +1,16 @@
+creation_timestamp: 1777865831871
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1777865831871
+model_id: m-2b6329ab0c7949fdb4c126ff400442fd
+name: cropsense-irrigation-hours-predictor
+run_id: d64a985393114b0aadc22396b86c4083
+run_link: null
+source: models:/m-2b6329ab0c7949fdb4c126ff400442fd
+status: READY
+status_message: null
+storage_location: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/models/m-2b6329ab0c7949fdb4c126ff400442fd/artifacts
+user_id: null
+version: 4
+workspace: default

@@ -1,0 +1,10 @@
+artifact_location: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/models/m-2b6329ab0c7949fdb4c126ff400442fd/artifacts
+creation_timestamp: 1777865830350
+experiment_id: '527648002382279890'
+last_updated_timestamp: 1777865831860
+model_id: m-2b6329ab0c7949fdb4c126ff400442fd
+model_type: null
+name: model
+source_run_id: d64a985393114b0aadc22396b86c4083
+status: 3
+status_message: null

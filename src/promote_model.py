@@ -71,7 +71,10 @@ with mlflow.start_run(run_name=f"{best_model_name}_challenger_rs99") as run:
     mlflow.log_metric("mae", v2_mae)
     mlflow.log_metric("rmse", v2_rmse)
     mlflow.log_metric("r2", v2_r2)
-    mlflow.sklearn.log_model(challenger, "model")
+    try:
+        mlflow.sklearn.log_model(challenger, "model")
+    except OSError as e:
+        print(f"Warning: Could not log challenger model artifacts: {e}")
     challenger_run_id = run.info.run_id
 
 # Register challenger as version 2

@@ -1,0 +1,14 @@
+artifact_uri: file:///sessions/sleepy-compassionate-ptolemy/mnt/outputs/Internals_Basics/MLOPs_Lab_CIE/mlruns/527648002382279890/b3eb3018614f40f1bb68fc9ebced537d/artifacts
+end_time: 1777865938264
+entry_point_name: ''
+experiment_id: '527648002382279890'
+lifecycle_stage: active
+run_id: b3eb3018614f40f1bb68fc9ebced537d
+run_name: RandomForest_retrained
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777865936744
+status: 3
+tags: []
+user_id: aashishsrinivasa

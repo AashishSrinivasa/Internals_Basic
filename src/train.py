@@ -57,7 +57,10 @@ with mlflow.start_run(run_name="LinearRegression") as run:
     mlflow.log_metric("mae", mae)
     mlflow.log_metric("rmse", rmse)
     mlflow.log_metric("r2", r2)
-    mlflow.sklearn.log_model(lr, "model")
+    try:
+        mlflow.sklearn.log_model(lr, "model")
+    except OSError as e:
+        print(f"Warning: Could not log LinearRegression model artifacts: {e}")
 
     lr_run_id = run.info.run_id
     run_ids["LinearRegression"] = lr_run_id
@@ -83,7 +86,10 @@ with mlflow.start_run(run_name="RandomForest") as run:
     mlflow.log_metric("mae", mae)
     mlflow.log_metric("rmse", rmse)
     mlflow.log_metric("r2", r2)
-    mlflow.sklearn.log_model(rf, "model")
+    try:
+        mlflow.sklearn.log_model(rf, "model")
+    except OSError as e:
+        print(f"Warning: Could not log RandomForest model artifacts: {e}")
 
     rf_run_id = run.info.run_id
     run_ids["RandomForest"] = rf_run_id

@@ -1,9 +1,9 @@
 aliases:
-  live: '1'
+  live: '5'
 creation_timestamp: 1777865279994
 deployment_job_id: null
 deployment_job_state: null
 description: null
-last_updated_timestamp: 1777865288814
+last_updated_timestamp: 1777865933329
 name: cropsense-irrigation-hours-predictor
 workspace: default
