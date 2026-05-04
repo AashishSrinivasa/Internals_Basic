@@ -1,7 +1,7 @@
 {
   "registered_model_name": "cropsense-irrigation-hours-predictor",
   "alias_name": "live",
-  "champion_version": 5,
-  "challenger_version": 6,
+  "champion_version": 9,
+  "challenger_version": 10,
   "action": "kept"
 }

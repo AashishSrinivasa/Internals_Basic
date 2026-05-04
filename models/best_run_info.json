@@ -1,13 +1,13 @@
 {
   "best_model": "RandomForest",
-  "best_run_id": "739db6bed8564cd8a39d9a95d2fbd105",
+  "best_run_id": "27d6c95ee7914fcb82d153ad92c5439c",
   "run_ids": {
-    "LinearRegression": "d2701967365e47bc84016fdf7eebeeba",
-    "RandomForest": "739db6bed8564cd8a39d9a95d2fbd105"
+    "LinearRegression": "1b41b10e5d1c4aed8d2527af92da4ee1",
+    "RandomForest": "27d6c95ee7914fcb82d153ad92c5439c"
   },
   "tracking_uri": "file:///Users/aashishsrinivasa/Documents/MLOPS/MLOPs_Lab_CIE/mlruns",
-  "v1_version": 5,
+  "v1_version": 9,
   "v1_mae": 1.1066199999999975,
-  "champion_version": 5,
+  "champion_version": 9,
   "champion_mae": 1.1066199999999975
 }
